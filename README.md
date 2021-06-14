@@ -14,4 +14,5 @@ For Question 5 code:
 -Due to the mock database connection used to store the data, you would need to run both npm run server in one console and npm start in another console
 
 For Question 6 code:
--Two java files, nothing special
+-Two java files
+-If running code with test file, relative file path will need to be changed to appropriate file path. File path string is in method call parameter in main. 
