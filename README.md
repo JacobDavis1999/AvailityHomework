@@ -1,7 +1,7 @@
 # AvailityHomework
 Availity’s Fullstack Homework Assignment
 
-Question 1-3 answers are in the text documnet named Questions1-3.docx
+Question 1-3 answers are in the text document named Questions1-3.docx
 
 Folders are laid out by code question.
 
